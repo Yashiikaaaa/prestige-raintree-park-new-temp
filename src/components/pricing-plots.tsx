@@ -11,7 +11,7 @@ export default function PricingPlots() {
   const [isModalOpen, setIsModalOpen] = useState(false)
   const [clickedIndex, setClickedIndex] = useState<number | null>(null)
   const plots = [
-    { price: "₹1.1 Cr+", size: "1 BHK (650 Sq. Ft)" },
+
 { price: "₹2 Cr+", size: "2 BHK (1200 Sq. Ft)" },
 { price: "₹2.5 Cr+", size: "3 BHK (1500 Sq. Ft)" },
 { price: "₹3 Cr+", size: "3 BHK (1750–1950 Sq. Ft)" },

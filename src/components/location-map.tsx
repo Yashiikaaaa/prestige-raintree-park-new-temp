@@ -56,7 +56,7 @@ export default function LocationMap() {
 
   const locationData: Record<string, Array<{ name: string; distance: string }>> = {
     hospital: [
-      { name: "Manipal Hospital", distance: "3 km" },
+      { name: "Manipal Hospital", distance: "500 m" },
 { name: "Vydehi Super Speciality Hospital", distance: "3 km" },
 { name: "Brookfield Multi Speciality Hospital", distance: "5 km" },
 { name: "Kauvery Hospital", distance: "5 km" }
@@ -76,8 +76,8 @@ export default function LocationMap() {
     ],
 
     entertainment: [
-     { name: "Nexus Mall, Whitefield", distance: "3 km" },
-{ name: "Brookfield Mall", distance: "3 km" },
+     { name: "Nexus Mall, Whitefield", distance: "1.5 km" },
+{ name: "Brookfield Mall", distance: "6 km" },
 { name: "Ascendas Park Square Mall", distance: "5 km" },
 { name: "Inorbit Mall", distance: "5 km" }
 
