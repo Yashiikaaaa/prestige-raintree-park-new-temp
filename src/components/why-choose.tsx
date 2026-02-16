@@ -48,6 +48,8 @@ export default function WhyChoose() {
     return () => container.removeEventListener("scroll", handleScroll)
   }, [])
 
+  
+
   return (
     <section className="py-12 md:py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 md:px-0">
