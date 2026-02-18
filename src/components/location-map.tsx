@@ -71,7 +71,7 @@ export default function LocationMap() {
       { name: "Brigade IRV Center", distance: "3 km" },
 { name: "Embassy Tech Village", distance: "7 km" },
 { name: "Prestige Tech Park", distance: "5 km" },
-{ name: "ORR", distance: "20 km" },
+{ name: "ORR", distance: "8 km" },
 { name: "Sarjapur Road", distance: "12 km" }
     ],
 
